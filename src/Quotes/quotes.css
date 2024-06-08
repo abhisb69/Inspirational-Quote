@@ -1,0 +1,48 @@
+.quotes-wrapper{
+    text-align: center;
+    padding-left: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-right: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    width:fit-content;
+    height:600;
+    background-color:cyan;
+}
+p{
+    font-size: 20px;
+    margin: 20px;
+    font-family: 'Times New Roman';
+    margin-top: 60px;
+}
+.header{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    font-weight: 600;
+}
+span{
+    padding-left: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 5px;
+    background-color:black;
+    border-radius: 25%;
+    color: aliceblue;
+    align-content: end;
+}
+h1{
+    font-family: sans-serif;
+}
+button{
+    padding: 10px;
+    border-radius: 25px;
+    background-color: cyan;
+    font-size: 15px;
+    font-weight: 700;
+    margin-top: 100px;
+}
+.react-tweet{
+    margin-top: auto;
+    margin-bottom: auto;
+}
